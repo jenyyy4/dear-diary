@@ -180,3 +180,21 @@
     .entry {
       font-family: "Alef", sans-serif;
     }
+    .error {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 77vh;
+    }
+    .error-text {
+      color: #8ecae6;
+      font-weight: 800;
+      font-size: 70px;
+    }
+    .error p {
+      color: #005f73;
+    }
+    .link {
+      font-weight: 800;
+    }
